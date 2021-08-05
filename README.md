@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/PrinceHard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrinceHard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=PrinceHard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceHard&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
